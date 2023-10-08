@@ -1,0 +1,6 @@
+print("WELCOME TO BAND NAME GENERATOR \U0001f600")
+st=input("Hello , Could you tell me from which city you are from ?")
+str=input("Could you tell me what you would give your pet name , if you had any?")
+st=st.upper()
+str=str.upper()
+print (f"The name of your rock band is  {st} {str}")
